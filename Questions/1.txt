@@ -1,0 +1,157 @@
+Basic Input/Output (I/O):
+
+Read an integer from the user and print it.
+Read two integers from the user, add them, and print the result.
+Read a string from the user and print it.
+Read two strings from the user, concatenate them, and print the result.
+Read a character from the user and print it.
+
+Variables and Data Types:
+
+Declare and initialize variables of different data types (int, float, double, char, string).
+Perform arithmetic operations on variables.
+Print the sizes of different data types.
+Convert between data types.
+Use sizeof operator to find the size of variables.
+
+Control Structures:
+
+Write a program to find the maximum of two numbers.
+Write a program to check if a number is even or odd.
+Write a program to find the factorial of a number using loops.
+Write a program to print Fibonacci series.
+Write a program to check if a number is prime.
+
+Functions:
+
+Write a function to calculate the square of a number.
+Write a function to calculate the factorial of a number using recursion.
+Write a function to check if a number is prime.
+Write a function to find the maximum of three numbers.
+Write a function to reverse a string.
+
+Arrays:
+
+Write a program to find the sum of elements in an array.
+Write a program to find the largest element in an array.
+Write a program to sort elements of an array in ascending order.
+Write a program to merge two arrays.
+Write a program to find the frequency of each element in an array.
+
+Strings:
+
+Write a program to concatenate two strings.
+Write a program to find the length of a string.
+Write a program to reverse a string.
+Write a program to check if a string is a palindrome.
+Write a program to count the number of words in a string.
+
+Pointers:
+
+Write a program to swap two numbers using pointers.
+Write a program to find the largest element in an array using pointers.
+Write a program to reverse an array using pointers.
+Write a program to dynamically allocate memory for an array.
+Write a program to pass an array to a function.
+
+Classes and Objects:
+
+Write a program to define a class and create objects.
+Write a program to implement a simple calculator using class and objects.
+Write a program to calculate the area of a circle using class and objects.
+Write a program to implement a basic banking system using class and objects.
+Write a program to implement a student database using class and objects.
+
+File Handling:
+
+Write a program to read data from a text file.
+Write a program to write data to a text file.
+Write a program to copy contents of one file to another.
+Write a program to count the number of words in a text file.
+Write a program to search for a word in a text file.
+
+Advanced Topics:
+
+Write a program to implement binary search.
+Write a program to implement bubble sort.
+Write a program to implement linked list.
+Write a program to implement stack using array.
+Write a program to implement queue using linked list.
+
+
+Recursion:
+
+Write a program to calculate the factorial of a number using recursion.
+Write a program to find the nth Fibonacci number using recursion.
+Write a program to implement the Tower of Hanoi problem using recursion.
+Write a program to find the GCD (Greatest Common Divisor) of two numbers using recursion.
+Write a program to generate all permutations of a string using recursion.
+Dynamic Memory Allocation:
+
+Write a program to dynamically allocate memory for an array of integers.
+Write a program to dynamically allocate memory for a 2D array.
+Write a program to dynamically allocate memory for a linked list.
+Write a program to dynamically allocate memory for a stack.
+Write a program to dynamically allocate memory for a queue.
+Exception Handling:
+
+Write a program to demonstrate basic exception handling for division by zero.
+Write a program to demonstrate exception handling for array out of bounds.
+Write a program to demonstrate exception handling for file input/output errors.
+Write a program to demonstrate custom exception handling for invalid input.
+Write a program to demonstrate nested exception handling.
+
+STL (Standard Template Library):
+
+Write a program to demonstrate the use of vectors.
+Write a program to demonstrate the use of lists.
+Write a program to demonstrate the use of maps.
+Write a program to demonstrate the use of sets.
+Write a program to demonstrate the use of algorithms like sort, find, and count.
+Object-Oriented Programming (OOP) Principles:
+
+Write a program to demonstrate encapsulation.
+Write a program to demonstrate inheritance.
+Write a program to demonstrate polymorphism.
+Write a program to demonstrate abstraction.
+Write a program to demonstrate the use of interfaces or abstract classes.
+
+Templates:
+
+Write a program to create a template function to find the maximum of two values.
+Write a program to create a template class for a generic stack.
+Write a program to create a template function to perform arithmetic operations.
+Write a program to create a template function to sort an array.
+Write a program to create a template class for a generic linked list.
+
+Concurrency:
+
+Write a program to demonstrate basic thread creation.
+Write a program to demonstrate thread synchronization using mutex.
+Write a program to demonstrate thread synchronization using condition variables.
+Write a program to demonstrate thread synchronization using semaphores.
+Write a program to demonstrate deadlock avoidance.
+
+Networking:
+
+Write a program to implement a simple client-server communication using sockets.
+Write a program to implement a basic chat application using sockets.
+Write a program to download a file from a server using sockets.
+Write a program to implement a simple HTTP server.
+Write a program to implement a simple FTP client.
+
+Graphics and GUI (Graphical User Interface):
+
+Write a program to draw basic shapes using a graphics library (e.g., OpenGL).
+Write a program to create a simple GUI window using a GUI library (e.g., Qt).
+Write a program to implement basic animations using a graphics library.
+Write a program to create a simple game using a graphics library.
+Write a program to create a user interface for a calculator application.
+
+Advanced Data Structures and Algorithms:
+
+Write a program to implement binary search tree (BST).
+Write a program to implement AVL tree.
+Write a program to implement priority queue.
+Write a program to implement Dijkstra's algorithm for shortest path.
+Write a program to implement dynamic programming for a specific problem.

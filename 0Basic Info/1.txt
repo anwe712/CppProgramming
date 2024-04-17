@@ -1,0 +1,16 @@
+bool char int float double void wchar_t
+
+while , for , do..while , nested loops
+break , continue , goto 
+goto - transfers control to the labeled statement
+
+if , if...else , switch , nested if , nested switch 
+
+
+return_type function_name( parameter list ) {
+   body of the function
+}
+
+
+
+
