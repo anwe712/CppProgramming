@@ -1,0 +1,1 @@
+/*Array , Function , Pointer concepts are part of the derived data type*/
